@@ -1,2 +1,5 @@
-print("Nama: Laura Gaby Liviana Sinaga")
-print("NPM: 2406859490")
+nama = input("Masukkan nama Anda: ")
+npm = input("Masukkan NPM Anda: ")
+
+print("Halo,", nama)
+print("NPM:", npm)
